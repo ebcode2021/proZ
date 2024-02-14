@@ -8,11 +8,23 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 개발한 웹 인터페이스를 통해 개발자는 프로젝트 진행에 있어 효율적이고 원활한 소통이 가능하다. \
 대표 기능으로는 메모, 보드, 캘린더, 에디터, 로드맵, 채팅 및 알림이 있다.
 
-<img width="600" alt="메인페이지" src="https://github.com/ebcode2021/proZ/assets/84271971/04ef634d-cc29-477b-982e-b536b903bf90">
+**[메인 페이지]**
+
+<img width="600" alt="대표사진" src="https://github.com/ebcode2021/proZ/assets/84271971/04ef634d-cc29-477b-982e-b536b903bf90">
+
+<br />
+
+**[워크스페이스]**
+
+<img width="600" alt="대표사진2" src="https://github.com/ebcode2021/proZ/assets/84271971/9ce21d35-eb63-47c1-b4d0-583651a4d6b1">
+
+<br />
 
 ## 2. 개발 기간
 
 2021.12 - 2021.12
+
+<br />
 
 ## 3. 개발 환경
 
@@ -22,13 +34,14 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 
 **[프론트엔드]** \
   Language : html, css, javascript \
-  Library : jquery
+  Library : jquery, Bootstrap
 
 **[툴 및 디자인 도구]** \
   Develop : VS Code, Eclipse, STS \
-  Design : Bootstrap \
   Version management : Github, Sourcetree \
   API : OpenWeather, Firebase, STOMP, KakaoAPI, Import, GithubAPI
+
+<br />
 
 ## 4. 멤버 구성 및 역할 분담
 
@@ -43,9 +56,13 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 
 <img width="750" alt="멤버 별 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/a356f3ec-b14b-498d-88f7-c72a8cb63d8f">
 
+<br />
+
 ## 5. ERD
 
 ![프로Z](https://github.com/ebcode2021/proZ/assets/84271971/6d02f26a-6318-456f-a0b5-6383df47c15a)
+
+<br />
 
 ## 6. 구현 기능
 
@@ -64,13 +81,21 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 아이디 찾기 / 비밀번호 찾기
 ```
 
+<img width="270" alt="로그인" src="https://github.com/ebcode2021/proZ/assets/84271971/705126f7-a5e6-4bc4-aa6a-acca72ea64f5" />
+<img width="265" alt="회원가입" src="https://github.com/ebcode2021/proZ/assets/84271971/cae35806-34e9-4e40-9c04-3c05f358b314" >
+
+<p align="center" width="100%">
+	<img width="270" alt="비밀번호 변경" src="https://github.com/ebcode2021/proZ/assets/84271971/06649f40-5d73-4cc8-b62f-70718a63ad8c" width="30%">
+	<img width="270" alt="비밀번호 변경" src="https://github.com/ebcode2021/proZ/assets/84271971/06649f40-5d73-4cc8-b62f-70718a63ad8c" width="30%">
+</p>
+
 **[마이페이지]**
 
 ```
 대표사진 등록 / 프로필 색상 변경 / 회원 정보 변경 / 회원 탈퇴
 ```
 
-### 2) 프로젝트 및 워크스페이스
+### 2) 프로젝트 및 워크스페이스 🙋🏻‍♀️
 
 **[프로젝트]**
 
@@ -117,7 +142,7 @@ BFS 알고리즘으로 개발 로드맵 작성 / 무시할 폴더 설정
 Commit 내역 불러오기
 ```
 
-### 7) STOMP
+### 7) STOMP 🙋🏻‍♀️
 
 ```
 Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
