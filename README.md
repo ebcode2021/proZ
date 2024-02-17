@@ -191,12 +191,20 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 	<img width="700" alt="파이어베이스" src="https://github.com/ebcode2021/proZ/assets/84271971/0d929cc3-7e1c-4db7-a8d6-39c0cf33d541">
 </p>
 
+```
+기능 설명ㅇ은
+여기다 이렇게 하면 되겠죠?
+
+ㅇㄹㅇㄹ
+
+```
+
 <br />
 
 **3-2) 실시간 채팅 및 파일 전송** 🙋🏻‍♀️
 
 <p align="center" width="100%">
-	<img width="500" alt="채팅1" src="https://github.com/ebcode2021/proZ/assets/84271971/a225997a-e9c5-4386-92ae-a4a98f6deea1">
+	<img width="400" alt="채팅1" src="https://github.com/ebcode2021/proZ/assets/84271971/a225997a-e9c5-4386-92ae-a4a98f6deea1">
 </p>
 
 <br />
