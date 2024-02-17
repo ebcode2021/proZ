@@ -118,12 +118,16 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 	<img width="800" alt="빈 프로젝트" src="https://github.com/ebcode2021/proZ/assets/84271971/7bd46fe1-0cda-4d49-84d6-499692cbe3f6">
 </p>
 
+<br />
+
 **2-2) 프로젝트 생성**
 
 <p align="center">
 	<img width="800" alt="워크스페이스1" src="https://github.com/ebcode2021/proZ/assets/84271971/376033d5-5f87-4fa7-a965-3584c9c9d519" width="50%">
 	<img width="800" alt="워크스페이스2" src="https://github.com/ebcode2021/proZ/assets/84271971/5d3c9eb1-b81f-43ff-a452-50ab6af8e97d" width="50%">
 </p>
+
+<br />
 
 **2-3) 프로젝트 설정**
 
@@ -144,17 +148,23 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 	<img width="800" alt="카테고리" src="https://github.com/ebcode2021/proZ/assets/84271971/ac78d6da-b387-449a-b5ee-1c5fd8f70ca6">
 </p>
 
+<br />
+
 **2-5) 카테고리 순서 변경**
 
 <p align="center" width="100%">
 	<img width="800" alt="카테고리 순서 변경" src="https://github.com/ebcode2021/proZ/assets/84271971/bf1f81be-d2cf-48c0-be04-ce9eb44cb388">
 </p>
 
+<br />
+
 **2-6) 멤버 역할 추가, 수정, 설정**
 
 <p align="center" width="100%">
 	<img width="800" alt="멤버 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/0154dcab-c43c-4f23-b4c5-70f53e0b729b">
 </p>
+
+<br />
 
 **2-7) 멤버 초대 및 추방**
 
@@ -169,8 +179,17 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 작성자, 작성시간 조회 기능
 ```
 
+**3-1) 메모 기본 페이지**
+
 <p align="center" width="100%">
 	<img width="800" alt="메모1" src="https://github.com/ebcode2021/proZ/assets/84271971/b3b25de3-400d-45d0-aa00-3024dce31c2b">
+</p>
+
+<br />
+
+**3-2) 메모 생성**
+
+<p align="center" width="100%">
 	<img width="800" alt="메모2" src="https://github.com/ebcode2021/proZ/assets/84271971/8eae5e49-c58a-420d-83d4-b63660a9d16c">
 </p>
 
