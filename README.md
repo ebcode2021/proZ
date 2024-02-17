@@ -192,8 +192,7 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 **3-2) 실시간 채팅 및 파일 전송** 🙋🏻‍♀️
 
 <p align="center" width="100%">
-	<img width="700" alt="채팅1" src="https://github.com/ebcode2021/proZ/assets/84271971/a225997a-e9c5-4386-92ae-a4a98f6deea1">
-	<img width="700" alt="채팅2" src="https://github.com/ebcode2021/proZ/assets/84271971/f7ab55ea-1548-41cf-bce0-f122980fde8c">
+	<img width="500" alt="채팅1" src="https://github.com/ebcode2021/proZ/assets/84271971/a225997a-e9c5-4386-92ae-a4a98f6deea1">
 </p>
 
 <br />
@@ -209,7 +208,7 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 **3-4) 댓글 알림**
 
 <p align="center" width="100%">
-	<img width="700" alt="댓글 알림" src="https://github.com/ebcode2021/proZ/assets/84271971/13ff1642-3f15-4208-ad92-591c19618c80">
+	<img width="250" alt="댓글 알림" src="https://github.com/ebcode2021/proZ/assets/84271971/13ff1642-3f15-4208-ad92-591c19618c80">
 </p>
 
 ### 4) 메모
