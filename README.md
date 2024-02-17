@@ -115,8 +115,8 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 **2-1) 프로젝트 생성**
 
 <p align="center">
-	<img width="800" alt="워크스페이스1" src="https://github.com/ebcode2021/proZ/assets/84271971/376033d5-5f87-4fa7-a965-3584c9c9d519" width="50%">
-	<img width="800" alt="워크스페이스2" src="https://github.com/ebcode2021/proZ/assets/84271971/5d3c9eb1-b81f-43ff-a452-50ab6af8e97d" width="50%">
+	<img width="700" alt="워크스페이스1" src="https://github.com/ebcode2021/proZ/assets/84271971/376033d5-5f87-4fa7-a965-3584c9c9d519" width="50%">
+	<img width="700" alt="워크스페이스2" src="https://github.com/ebcode2021/proZ/assets/84271971/5d3c9eb1-b81f-43ff-a452-50ab6af8e97d" width="50%">
 </p>
 
 <br />
@@ -124,7 +124,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 **2-2) 프로젝트 설정**
 
 <p align="center" width="100%">
-	<img width="800" alt="프로젝트설정" src="https://github.com/ebcode2021/proZ/assets/84271971/963b735f-54a5-47af-8143-7c7884b8586b">
+	<img width="700" alt="프로젝트설정" src="https://github.com/ebcode2021/proZ/assets/84271971/963b735f-54a5-47af-8143-7c7884b8586b">
 </p>
 
 **[워크스페이스]**
@@ -137,7 +137,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 **2-3) 카테고리 추가, 수정, 삭제**
 
 <p align="center" width="100%">
-	<img width="800" alt="카테고리" src="https://github.com/ebcode2021/proZ/assets/84271971/ac78d6da-b387-449a-b5ee-1c5fd8f70ca6">
+	<img width="700" alt="카테고리" src="https://github.com/ebcode2021/proZ/assets/84271971/ac78d6da-b387-449a-b5ee-1c5fd8f70ca6">
 </p>
 
 <br />
@@ -145,7 +145,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 **2-4) 카테고리 순서 변경**
 
 <p align="center" width="100%">
-	<img width="800" alt="카테고리 순서 변경" src="https://github.com/ebcode2021/proZ/assets/84271971/bf1f81be-d2cf-48c0-be04-ce9eb44cb388">
+	<img width="700" alt="카테고리 순서 변경" src="https://github.com/ebcode2021/proZ/assets/84271971/bf1f81be-d2cf-48c0-be04-ce9eb44cb388">
 </p>
 
 <br />
@@ -153,7 +153,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 **2-5) 멤버 역할 추가, 수정, 설정**
 
 <p align="center" width="100%">
-	<img width="800" alt="멤버 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/0154dcab-c43c-4f23-b4c5-70f53e0b729b">
+	<img width="700" alt="멤버 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/0154dcab-c43c-4f23-b4c5-70f53e0b729b">
 </p>
 
 <br />
@@ -161,15 +161,15 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 **2-6) 멤버 초대 및 추방**
 
 <p align="center" width="100%">
-	<img width="800" alt="멤버 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/2cd1cce7-3a34-4ee6-a361-86b0e6b1cd54">
+	<img width="700" alt="멤버 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/2cd1cce7-3a34-4ee6-a361-86b0e6b1cd54">
 </p>
 
 **2-7) 유료 결제 기능**
 
 <p align="center" width="100%">
-	<img width="800" alt="결제전" src="https://github.com/ebcode2021/proZ/assets/84271971/e672da65-e662-44bd-9b5d-c0b02950eec5">
-	<img width="800" alt="결제중" src="https://github.com/ebcode2021/proZ/assets/84271971/a3df9d73-28c6-4cdc-97d8-d97e0b7fd024">
-	<img width="800" alt="결제완료" src="https://github.com/ebcode2021/proZ/assets/84271971/6a3dfa37-1450-4add-bc33-6ee58464342d">
+	<img width="700" alt="결제전" src="https://github.com/ebcode2021/proZ/assets/84271971/e672da65-e662-44bd-9b5d-c0b02950eec5">
+	<img width="700" alt="결제중" src="https://github.com/ebcode2021/proZ/assets/84271971/a3df9d73-28c6-4cdc-97d8-d97e0b7fd024">
+	<img width="700" alt="결제완료" src="https://github.com/ebcode2021/proZ/assets/84271971/6a3dfa37-1450-4add-bc33-6ee58464342d">
 </p>
 
 ### 3) STOMP 🙋🏻‍♀️
@@ -184,7 +184,7 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 **3-1) Firebase를 통한 채팅 데이터 보관** 🙋🏻‍♀️
 
 <p align="center" width="100%">
-	<img width="791" alt="파이어베이스" src="https://github.com/ebcode2021/proZ/assets/84271971/5384556f-6ada-4ebd-a356-0392b84019a2">
+	<img width="700" alt="파이어베이스" src="https://github.com/ebcode2021/proZ/assets/84271971/5384556f-6ada-4ebd-a356-0392b84019a2">
 </p>
 
 <br />
@@ -192,8 +192,8 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 **3-2) 실시간 채팅 및 파일 전송** 🙋🏻‍♀️
 
 <p align="center" width="100%">
-	<img width="800" alt="채팅1" src="https://github.com/ebcode2021/proZ/assets/84271971/a225997a-e9c5-4386-92ae-a4a98f6deea1">
-	<img width="800" alt="채팅2" src="https://github.com/ebcode2021/proZ/assets/84271971/f7ab55ea-1548-41cf-bce0-f122980fde8c">
+	<img width="700" alt="채팅1" src="https://github.com/ebcode2021/proZ/assets/84271971/a225997a-e9c5-4386-92ae-a4a98f6deea1">
+	<img width="700" alt="채팅2" src="https://github.com/ebcode2021/proZ/assets/84271971/f7ab55ea-1548-41cf-bce0-f122980fde8c">
 </p>
 
 <br />
@@ -201,7 +201,7 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 **3-3) 유저의 온오프라인 확인**
 
 <p align="center" width="100%">
-	<img width="800" alt="실시간 상태" src="https://github.com/ebcode2021/proZ/assets/84271971/6e549da3-4c48-4a83-9ed7-965f7b5d9536">
+	<img width="700" alt="실시간 상태" src="https://github.com/ebcode2021/proZ/assets/84271971/6e549da3-4c48-4a83-9ed7-965f7b5d9536">
 </p>
 
 <br />
@@ -209,7 +209,7 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 **3-4) 댓글 알림**
 
 <p align="center" width="100%">
-	<img width="800" alt="댓글 알림" src="https://github.com/ebcode2021/proZ/assets/84271971/13ff1642-3f15-4208-ad92-591c19618c80">
+	<img width="700" alt="댓글 알림" src="https://github.com/ebcode2021/proZ/assets/84271971/13ff1642-3f15-4208-ad92-591c19618c80">
 </p>
 
 ### 4) 메모
