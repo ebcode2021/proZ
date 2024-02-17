@@ -78,10 +78,10 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 아이디 찾기 / 비밀번호 찾기
 ```
 
-<img width="270" alt="로그인" src="https://github.com/ebcode2021/proZ/assets/84271971/705126f7-a5e6-4bc4-aa6a-acca72ea64f5" />
-
-<br />
-<img width="270" alt="회원가입" src="https://github.com/ebcode2021/proZ/assets/84271971/cae35806-34e9-4e40-9c04-3c05f358b314" />
+<p align="center" width="100%">
+	<img width="270" alt="로그인" src="https://github.com/ebcode2021/proZ/assets/84271971/705126f7-a5e6-4bc4-aa6a-acca72ea64f5" width="50%" />
+	<img width="270" alt="회원가입" src="https://github.com/ebcode2021/proZ/assets/84271971/cae35806-34e9-4e40-9c04-3c05f358b314" width="50%" />
+</p>
 
 <br />
 
