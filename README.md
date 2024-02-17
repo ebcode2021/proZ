@@ -112,20 +112,20 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 프로젝트 생성 / 프로젝트 이름 및 소개 변경 / 프로젝트 이미지 등록 / 프로젝트 메인 페이지
 ```
 
-2-1) 빈 프로젝트
+**2-1) 빈 프로젝트**
 
 <p align="center">
 	<img width="800" alt="빈 프로젝트" src="https://github.com/ebcode2021/proZ/assets/84271971/7bd46fe1-0cda-4d49-84d6-499692cbe3f6">
 </p>
 
-2-2) 프로젝트 생성
+**2-2) 프로젝트 생성**
 
 <p align="center" width="100%">
 	<img width="400" alt="워크스페이스1" src="https://github.com/ebcode2021/proZ/assets/84271971/376033d5-5f87-4fa7-a965-3584c9c9d519" width="50%">
 	<img width="400" alt="워크스페이스2" src="https://github.com/ebcode2021/proZ/assets/84271971/5d3c9eb1-b81f-43ff-a452-50ab6af8e97d" width="50%">
 </p>
 
-2-3) 프로젝트 설정
+**2-3) 프로젝트 설정**
 
 <p align="center" width="100%">
 	<img width="800" alt="프로젝트설정" src="https://github.com/ebcode2021/proZ/assets/84271971/963b735f-54a5-47af-8143-7c7884b8586b">
@@ -138,25 +138,25 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 워크스페이스 별 멤버 역할 추가, 수정, 설정 / 권한 수정 / 멤버 초대 / 멤버 추방
 ```
 
-2-4) 카테고리 추가, 수정, 삭제
+**2-4) 카테고리 추가, 수정, 삭제**
 
 <p align="center" width="100%">
 	<img width="800" alt="카테고리" src="https://github.com/ebcode2021/proZ/assets/84271971/ac78d6da-b387-449a-b5ee-1c5fd8f70ca6">
 </p>
 
-2-5) 카테고리 순서 변경
+**2-5) 카테고리 순서 변경**
 
 <p align="center" width="100%">
 	<img width="800" alt="카테고리 순서 변경" src="https://github.com/ebcode2021/proZ/assets/84271971/bf1f81be-d2cf-48c0-be04-ce9eb44cb388">
 </p>
 
-2-6) 멤버 역할 추가, 수정, 설정
+**2-6) 멤버 역할 추가, 수정, 설정**
 
 <p align="center" width="100%">
 	<img width="800" alt="멤버 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/0154dcab-c43c-4f23-b4c5-70f53e0b729b">
 </p>
 
-2-7) 멤버 초대 및 추방
+**2-7) 멤버 초대 및 추방**
 
 <p align="center" width="100%">
 	<img width="800" alt="멤버 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/2cd1cce7-3a34-4ee6-a361-86b0e6b1cd54">
