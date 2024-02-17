@@ -69,6 +69,8 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 
 <img width="750" alt="프로젝트 주요 기능" src="https://github.com/ebcode2021/proZ/assets/84271971/8c436515-3e1f-45e3-9a4d-ed40da108a2d">
 
+---
+
 ### 1) 로그인
 
 **[유저]**
@@ -91,8 +93,6 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 
 <br />
 
-<br />
-
 **[마이페이지]**
 
 ```
@@ -103,6 +103,8 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 	<img width="400" alt="마이페이지1" src="https://github.com/ebcode2021/proZ/assets/84271971/b30242ac-bf30-465c-b8ef-c8fff333c56b" width="50%">
 	<img width="400" alt="마이페이지2" src="https://github.com/ebcode2021/proZ/assets/84271971/21ac485d-ac98-4578-9521-9ee18eb13adc" width="50%">
 </p>
+
+---
 
 ### 2) 프로젝트 및 워크스페이스 🙋🏻‍♀️
 
@@ -171,6 +173,8 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 	<img width="700" alt="결제완료" src="https://github.com/ebcode2021/proZ/assets/84271971/45f41b85-14ea-47e4-90b3-cab019e62415">
 </p>
 
+---
+
 ### 3) STOMP 🙋🏻‍♀️
 
 ```
@@ -210,6 +214,8 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 	<img width="250" alt="댓글 알림" src="https://github.com/ebcode2021/proZ/assets/84271971/13ff1642-3f15-4208-ad92-591c19618c80">
 </p>
 
+---
+
 ### 4) 메모
 
 ```
@@ -231,6 +237,8 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 	<img width="600" alt="메모2" src="https://github.com/ebcode2021/proZ/assets/84271971/8eae5e49-c58a-420d-83d4-b63660a9d16c">
 </p>
 
+---
+
 ### 5) 게시판 / 캘린더
 
 ```
@@ -242,7 +250,7 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 **5-1) 게시판 기본 페이지**
 
 <p align="center" width="100%">
-	<img width="600" alt="게시판" src="https://github.com/ebcode2021/proZ/assets/84271971/03baccbc-a959-4d2d-940e-b170b39bdc5c">
+	<img width="800" alt="게시판" src="https://github.com/ebcode2021/proZ/assets/84271971/03baccbc-a959-4d2d-940e-b170b39bdc5c">
 </p>
 
 <br />
@@ -250,7 +258,7 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 **5-2) 게시글**
 
 <p align="center" width="100%">
-	<img width="600" alt="게시판2" src="https://github.com/ebcode2021/proZ/assets/84271971/477dc212-eb54-4cd9-8707-32d22b8c81a7">
+	<img width="800" alt="게시판2" src="https://github.com/ebcode2021/proZ/assets/84271971/477dc212-eb54-4cd9-8707-32d22b8c81a7">
 </p>
 
 <br />
@@ -258,7 +266,7 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 **5-3) 캘린더**
 
 <p align="center" width="100%">
-	<img width="600" alt="캘린더" src="https://github.com/ebcode2021/proZ/assets/84271971/a9bbfb87-5d47-448c-a602-a6721d3781a0">
+	<img width="800" alt="캘린더" src="https://github.com/ebcode2021/proZ/assets/84271971/a9bbfb87-5d47-448c-a602-a6721d3781a0">
 </p>
 
 ---
@@ -272,8 +280,8 @@ codeBlock, 구분선, 인용문 작성 기능
 ```
 
 <p align="center" width="100%">
-	<img width="600" alt="에디터1" src="https://github.com/ebcode2021/proZ/assets/84271971/1749dd82-d363-4f05-9c66-66af4cb396d4">
-	<img width="600" alt="에디터2" src="https://github.com/ebcode2021/proZ/assets/84271971/f199cd86-129b-4219-82c3-7aba0f87aad5">
+	<img width="700" alt="에디터1" src="https://github.com/ebcode2021/proZ/assets/84271971/1749dd82-d363-4f05-9c66-66af4cb396d4">
+	<img width="700" alt="에디터2" src="https://github.com/ebcode2021/proZ/assets/84271971/f199cd86-129b-4219-82c3-7aba0f87aad5">
 </p>
 
 ---
@@ -285,3 +293,8 @@ Git repository 연동하기
 BFS 알고리즘으로 개발 로드맵 작성 / 무시할 폴더 설정
 Commit 내역 불러오기
 ```
+
+<p align="center" width="100%">
+	<img width="700" alt="로드맵1" src="https://github.com/ebcode2021/proZ/assets/84271971/5d71a639-0984-4350-8343-0f8566da566e">
+	<img width="700" alt="로드맵2" src="https://github.com/ebcode2021/proZ/assets/84271971/011f69ec-c2a2-4fe5-acf1-b2e9baf9ea49">
+</p>
