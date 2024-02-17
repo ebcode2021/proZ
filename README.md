@@ -87,7 +87,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 
 <br />
 
-<img width="400" height="250" alt="비밀번호 찾기" src="https://github.com/ebcode2021/proZ/assets/84271971/734a728c-c4f1-41e4-bc5e-8a72be5c43cd" />
+<!--<img width="400" height="250" alt="비밀번호 찾기" src="https://github.com/ebcode2021/proZ/assets/84271971/734a728c-c4f1-41e4-bc5e-8a72be5c43cd" />-->
 
 <br />
 
