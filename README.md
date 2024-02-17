@@ -185,19 +185,18 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 댓글 알림
 ```
 
+<br />
+
 **3-1) Firebase를 통한 채팅 데이터 보관** 🙋🏻‍♀️
 
 <p align="center" width="100%">
 	<img width="700" alt="파이어베이스" src="https://github.com/ebcode2021/proZ/assets/84271971/0d929cc3-7e1c-4db7-a8d6-39c0cf33d541">
 </p>
 
-```
-기능 설명ㅇ은
+기능 설명ㅇ은 \
 여기다 이렇게 하면 되겠죠?
 
 ㅇㄹㅇㄹ
-
-```
 
 <br />
 
