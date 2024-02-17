@@ -120,9 +120,9 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 
 **2-2) 프로젝트 생성**
 
-<p align="center" width="100%">
-	<img width="400" alt="워크스페이스1" src="https://github.com/ebcode2021/proZ/assets/84271971/376033d5-5f87-4fa7-a965-3584c9c9d519" width="50%">
-	<img width="400" alt="워크스페이스2" src="https://github.com/ebcode2021/proZ/assets/84271971/5d3c9eb1-b81f-43ff-a452-50ab6af8e97d" width="50%">
+<p align="center">
+	<img width="800" alt="워크스페이스1" src="https://github.com/ebcode2021/proZ/assets/84271971/376033d5-5f87-4fa7-a965-3584c9c9d519" width="50%">
+	<img width="800" alt="워크스페이스2" src="https://github.com/ebcode2021/proZ/assets/84271971/5d3c9eb1-b81f-43ff-a452-50ab6af8e97d" width="50%">
 </p>
 
 **2-3) 프로젝트 설정**
