@@ -148,7 +148,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 **2-4) 카테고리 순서 변경**
 
 <p align="center" width="100%">
-	<img width="700" alt="카테고리 순서 변경" src="https://github.com/ebcode2021/proZ/assets/84271971/bf1f81be-d2cf-48c0-be04-ce9eb44cb388">
+	<img width="500" alt="카테고리 순서 변경" src="https://github.com/ebcode2021/proZ/assets/84271971/bf1f81be-d2cf-48c0-be04-ce9eb44cb388">
 </p>
 
 <br />
@@ -156,7 +156,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 **2-5) 멤버 역할 추가, 수정, 설정**
 
 <p align="center" width="100%">
-	<img width="700" alt="멤버 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/0154dcab-c43c-4f23-b4c5-70f53e0b729b">
+	<img width="500" alt="멤버 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/0154dcab-c43c-4f23-b4c5-70f53e0b729b">
 </p>
 
 <br />
@@ -164,7 +164,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 **2-6) 멤버 초대 및 추방**
 
 <p align="center" width="100%">
-	<img width="700" alt="멤버 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/2cd1cce7-3a34-4ee6-a361-86b0e6b1cd54">
+	<img width="500" alt="멤버 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/2cd1cce7-3a34-4ee6-a361-86b0e6b1cd54">
 </p>
 
 **2-7) 유료 결제 기능**
