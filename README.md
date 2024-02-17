@@ -80,7 +80,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 
 <p align="center" width="100%">
 	<img width="270" alt="로그인" src="https://github.com/ebcode2021/proZ/assets/84271971/705126f7-a5e6-4bc4-aa6a-acca72ea64f5" width="50%" />
-	<img width="270" alt="회원가입" src="https://github.com/ebcode2021/proZ/assets/84271971/cae35806-34e9-4e40-9c04-3c05f358b314" width="50%" />
+	<!--<img width="270" alt="회원가입" src="https://github.com/ebcode2021/proZ/assets/84271971/cae35806-34e9-4e40-9c04-3c05f358b314" width="50%" />-->
 </p>
 
 <br />
@@ -167,7 +167,6 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 **2-7) 유료 결제 기능**
 
 <p align="center" width="100%">
-	<img width="700" alt="결제전" src="https://github.com/ebcode2021/proZ/assets/84271971/e672da65-e662-44bd-9b5d-c0b02950eec5">
 	<img width="700" alt="결제중" src="https://github.com/ebcode2021/proZ/assets/84271971/a3df9d73-28c6-4cdc-97d8-d97e0b7fd024">
 	<img width="700" alt="결제완료" src="https://github.com/ebcode2021/proZ/assets/84271971/45f41b85-14ea-47e4-90b3-cab019e62415">
 </p>
