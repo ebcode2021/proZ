@@ -169,7 +169,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 <p align="center" width="100%">
 	<img width="700" alt="결제전" src="https://github.com/ebcode2021/proZ/assets/84271971/e672da65-e662-44bd-9b5d-c0b02950eec5">
 	<img width="700" alt="결제중" src="https://github.com/ebcode2021/proZ/assets/84271971/a3df9d73-28c6-4cdc-97d8-d97e0b7fd024">
-	<img width="700" alt="결제완료" src="https://github.com/ebcode2021/proZ/assets/84271971/6a3dfa37-1450-4add-bc33-6ee58464342d">
+	<img width="700" alt="결제완료" src="https://github.com/ebcode2021/proZ/assets/84271971/45f41b85-14ea-47e4-90b3-cab019e62415">
 </p>
 
 ### 3) STOMP 🙋🏻‍♀️
@@ -200,7 +200,7 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 **3-3) 유저의 온오프라인 확인**
 
 <p align="center" width="100%">
-	<img width="700" alt="실시간 상태" src="https://github.com/ebcode2021/proZ/assets/84271971/6e549da3-4c48-4a83-9ed7-965f7b5d9536">
+	<img width="400" alt="실시간 상태" src="https://github.com/ebcode2021/proZ/assets/84271971/6e549da3-4c48-4a83-9ed7-965f7b5d9536">
 </p>
 
 <br />
