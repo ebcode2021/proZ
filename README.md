@@ -19,7 +19,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 
 ## 2. 개발 기간
 
-2021.12 - 2021.12
+2021.11 - 2021.12
 
 <br />
 
@@ -67,8 +67,9 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 
 **[구현 기능 간단히 보기]**
 
-<img width="750" alt="프로젝트 주요 기능" src="https://github.com/ebcode2021/proZ/assets/84271971/8c436515-3e1f-45e3-9a4d-ed40da108a2d">
-
+<p align="center" width="100%">
+	<img width="750" alt="프로젝트 주요 기능" src="https://github.com/ebcode2021/proZ/assets/84271971/8c436515-3e1f-45e3-9a4d-ed40da108a2d">
+</p>
 ---
 
 ### 1) 로그인
