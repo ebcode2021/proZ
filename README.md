@@ -169,6 +169,11 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 작성자, 작성시간 조회 기능
 ```
 
+<p align="center" width="100%">
+	<img width="800" alt="메모1" src="https://github.com/ebcode2021/proZ/assets/84271971/b3b25de3-400d-45d0-aa00-3024dce31c2b">
+	<img width="800" alt="메모2" src="https://github.com/ebcode2021/proZ/assets/84271971/8eae5e49-c58a-420d-83d4-b63660a9d16c">
+</p>
+
 ### 4) 보드/ 캘린더
 
 ```
