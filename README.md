@@ -44,14 +44,14 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 
 **[멤버 구성]**
 
-<img width="750" alt="팀원소개" align="center" src="https://github.com/ebcode2021/proZ/assets/84271971/50072fca-083f-4ebc-a916-a5644ed4433a">
+<img width="800" alt="팀원소개"  src="https://github.com/ebcode2021/proZ/assets/84271971/50072fca-083f-4ebc-a916-a5644ed4433a">
 
 <br />
 <br />
 
 **[멤버 별 역할]**
 
-<img width="750" alt="멤버 별 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/a356f3ec-b14b-498d-88f7-c72a8cb63d8f">
+<img width="800" alt="멤버 별 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/a356f3ec-b14b-498d-88f7-c72a8cb63d8f">
 
 <br />
 
@@ -84,8 +84,8 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 </p>
 
 <p align="center" width="100%">
-	<img width="400" alt="비밀번호 변경" src="https://github.com/ebcode2021/proZ/assets/84271971/06649f40-5d73-4cc8-b62f-70718a63ad8c" width="50%">
-	<img width="400" alt="비밀번호 변경" src="https://github.com/ebcode2021/proZ/assets/84271971/06649f40-5d73-4cc8-b62f-70718a63ad8c" width="50%">
+	<img width="400" alt="비밀번호 변경" src="https://github.com/ebcode2021/proZ/assets/84271971/06649f40-5d73-4cc8-b62f-70718a63ad8c" >
+	<img width="400" alt="비밀번호 찾기" src="https://github.com/ebcode2021/proZ/assets/84271971/734a728c-c4f1-41e4-bc5e-8a72be5c43cd" >
 </p>
 
 <br />
