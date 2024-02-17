@@ -112,15 +112,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 프로젝트 생성 / 프로젝트 이름 및 소개 변경 / 프로젝트 이미지 등록 / 프로젝트 메인 페이지
 ```
 
-**2-1) 빈 프로젝트**
-
-<p align="center">
-	<img width="800" alt="빈 프로젝트" src="https://github.com/ebcode2021/proZ/assets/84271971/7bd46fe1-0cda-4d49-84d6-499692cbe3f6">
-</p>
-
-<br />
-
-**2-2) 프로젝트 생성**
+**2-1) 프로젝트 생성**
 
 <p align="center">
 	<img width="800" alt="워크스페이스1" src="https://github.com/ebcode2021/proZ/assets/84271971/376033d5-5f87-4fa7-a965-3584c9c9d519" width="50%">
@@ -129,7 +121,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 
 <br />
 
-**2-3) 프로젝트 설정**
+**2-2) 프로젝트 설정**
 
 <p align="center" width="100%">
 	<img width="800" alt="프로젝트설정" src="https://github.com/ebcode2021/proZ/assets/84271971/963b735f-54a5-47af-8143-7c7884b8586b">
@@ -142,7 +134,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 워크스페이스 별 멤버 역할 추가, 수정, 설정 / 권한 수정 / 멤버 초대 / 멤버 추방
 ```
 
-**2-4) 카테고리 추가, 수정, 삭제**
+**2-3) 카테고리 추가, 수정, 삭제**
 
 <p align="center" width="100%">
 	<img width="800" alt="카테고리" src="https://github.com/ebcode2021/proZ/assets/84271971/ac78d6da-b387-449a-b5ee-1c5fd8f70ca6">
@@ -150,7 +142,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 
 <br />
 
-**2-5) 카테고리 순서 변경**
+**2-4) 카테고리 순서 변경**
 
 <p align="center" width="100%">
 	<img width="800" alt="카테고리 순서 변경" src="https://github.com/ebcode2021/proZ/assets/84271971/bf1f81be-d2cf-48c0-be04-ce9eb44cb388">
@@ -158,7 +150,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 
 <br />
 
-**2-6) 멤버 역할 추가, 수정, 설정**
+**2-5) 멤버 역할 추가, 수정, 설정**
 
 <p align="center" width="100%">
 	<img width="800" alt="멤버 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/0154dcab-c43c-4f23-b4c5-70f53e0b729b">
@@ -166,20 +158,68 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 
 <br />
 
-**2-7) 멤버 초대 및 추방**
+**2-6) 멤버 초대 및 추방**
 
 <p align="center" width="100%">
 	<img width="800" alt="멤버 역할" src="https://github.com/ebcode2021/proZ/assets/84271971/2cd1cce7-3a34-4ee6-a361-86b0e6b1cd54">
 </p>
 
-### 3) 메모
+**2-7) 유료 결제 기능**
+
+<p align="center" width="100%">
+	<img width="800" alt="결제전" src="https://github.com/ebcode2021/proZ/assets/84271971/e672da65-e662-44bd-9b5d-c0b02950eec5">
+	<img width="800" alt="결제중" src="https://github.com/ebcode2021/proZ/assets/84271971/a3df9d73-28c6-4cdc-97d8-d97e0b7fd024">
+	<img width="800" alt="결제완료" src="https://github.com/ebcode2021/proZ/assets/84271971/6a3dfa37-1450-4add-bc33-6ee58464342d">
+</p>
+
+### 3) STOMP 🙋🏻‍♀️
+
+```
+Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
+프록시 서버로 CORS 문제 핸들링
+유저의 온오프라인 확인
+댓글 알림
+```
+
+**3-1) Firebase를 통한 채팅 데이터 보관** 🙋🏻‍♀️
+
+<p align="center" width="100%">
+	<img width="791" alt="파이어베이스" src="https://github.com/ebcode2021/proZ/assets/84271971/5384556f-6ada-4ebd-a356-0392b84019a2">
+</p>
+
+<br />
+
+**3-2) 실시간 채팅 및 파일 전송** 🙋🏻‍♀️
+
+<p align="center" width="100%">
+	<img width="800" alt="채팅1" src="https://github.com/ebcode2021/proZ/assets/84271971/a225997a-e9c5-4386-92ae-a4a98f6deea1">
+	<img width="800" alt="채팅2" src="https://github.com/ebcode2021/proZ/assets/84271971/f7ab55ea-1548-41cf-bce0-f122980fde8c">
+</p>
+
+<br />
+
+**3-3) 유저의 온오프라인 확인**
+
+<p align="center" width="100%">
+	<img width="800" alt="실시간 상태" src="https://github.com/ebcode2021/proZ/assets/84271971/6e549da3-4c48-4a83-9ed7-965f7b5d9536">
+</p>
+
+<br />
+
+**3-4) 댓글 알림**
+
+<p align="center" width="100%">
+	<img width="800" alt="댓글 알림" src="https://github.com/ebcode2021/proZ/assets/84271971/13ff1642-3f15-4208-ad92-591c19618c80">
+</p>
+
+### 4) 메모
 
 ```
 메모 추가, 수정, 삭제 / 메모지 색상 변경 / summernote 에디터
 작성자, 작성시간 조회 기능
 ```
 
-**3-1) 메모 기본 페이지**
+**4-1) 메모 기본 페이지**
 
 <p align="center" width="100%">
 	<img width="800" alt="메모1" src="https://github.com/ebcode2021/proZ/assets/84271971/b3b25de3-400d-45d0-aa00-3024dce31c2b">
@@ -187,13 +227,13 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 
 <br />
 
-**3-2) 메모 생성**
+**4-2) 메모 생성**
 
 <p align="center" width="100%">
 	<img width="800" alt="메모2" src="https://github.com/ebcode2021/proZ/assets/84271971/8eae5e49-c58a-420d-83d4-b63660a9d16c">
 </p>
 
-### 4) 보드/ 캘린더
+### 5) 보드/ 캘린더
 
 ```
 게시판 추가, 수정, 삭제 / 게시글 조회 / 게시글 댓글
@@ -201,7 +241,7 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 캘린더 일정 추가 / 일정 삭제
 ```
 
-### 5) 에디터
+### 6) 에디터
 
 ```
 명령어 기능(제목 스타일 기능 h1, h2, h3)
@@ -209,19 +249,10 @@ img, file, audio 첨부 가능
 codeBlock, 구분선, 인용문 작성 기능
 ```
 
-### 6) 로드맵
+### 7) 로드맵
 
 ```
 Git repository 연동하기
 BFS 알고리즘으로 개발 로드맵 작성 / 무시할 폴더 설정
 Commit 내역 불러오기
-```
-
-### 7) STOMP 🙋🏻‍♀️
-
-```
-Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
-프록시 서버로 CORS 문제 핸들링
-유저의 온오프라인 확인
-댓글 알림
 ```
