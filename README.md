@@ -8,15 +8,11 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 개발한 웹 인터페이스를 통해 개발자는 프로젝트 진행에 있어 효율적이고 원활한 소통이 가능하다. \
 대표 기능으로는 메모, 보드, 캘린더, 에디터, 로드맵, 채팅 및 알림이 있다.
 
-**[메인 페이지]**
-
-<img width="600" alt="대표사진" src="https://github.com/ebcode2021/proZ/assets/84271971/04ef634d-cc29-477b-982e-b536b903bf90">
+<img width="800" alt="대표사진" align="center" src="https://github.com/ebcode2021/proZ/assets/84271971/04ef634d-cc29-477b-982e-b536b903bf90">
 
 <br />
 
-**[워크스페이스]**
-
-<img width="600" alt="대표사진2" src="https://github.com/ebcode2021/proZ/assets/84271971/9ce21d35-eb63-47c1-b4d0-583651a4d6b1">
+<img width="800" alt="대표사진2" src="https://github.com/ebcode2021/proZ/assets/84271971/9ce21d35-eb63-47c1-b4d0-583651a4d6b1">
 
 <br />
 
@@ -90,6 +86,8 @@ proZ는 기존 그룹웨어를 기반으로 `메신저`와 `커뮤니티 기능`
 	<img width="400" alt="비밀번호 변경" src="https://github.com/ebcode2021/proZ/assets/84271971/06649f40-5d73-4cc8-b62f-70718a63ad8c" width="50%">
 	<img width="400" alt="비밀번호 변경" src="https://github.com/ebcode2021/proZ/assets/84271971/06649f40-5d73-4cc8-b62f-70718a63ad8c" width="50%">
 </p>
+
+<br />
 
 **[마이페이지]**
 
