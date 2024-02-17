@@ -183,7 +183,7 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 **3-1) Firebase를 통한 채팅 데이터 보관** 🙋🏻‍♀️
 
 <p align="center" width="100%">
-	<img width="700" alt="파이어베이스" src="https://github.com/ebcode2021/proZ/assets/84271971/5384556f-6ada-4ebd-a356-0392b84019a2">
+	<img width="700" alt="파이어베이스" src="https://github.com/ebcode2021/proZ/assets/84271971/0d929cc3-7e1c-4db7-a8d6-39c0cf33d541">
 </p>
 
 <br />
@@ -220,7 +220,7 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 **4-1) 메모 기본 페이지**
 
 <p align="center" width="100%">
-	<img width="800" alt="메모1" src="https://github.com/ebcode2021/proZ/assets/84271971/b3b25de3-400d-45d0-aa00-3024dce31c2b">
+	<img width="600" alt="메모1" src="https://github.com/ebcode2021/proZ/assets/84271971/b3b25de3-400d-45d0-aa00-3024dce31c2b">
 </p>
 
 <br />
@@ -228,16 +228,40 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 **4-2) 메모 생성**
 
 <p align="center" width="100%">
-	<img width="800" alt="메모2" src="https://github.com/ebcode2021/proZ/assets/84271971/8eae5e49-c58a-420d-83d4-b63660a9d16c">
+	<img width="600" alt="메모2" src="https://github.com/ebcode2021/proZ/assets/84271971/8eae5e49-c58a-420d-83d4-b63660a9d16c">
 </p>
 
-### 5) 보드/ 캘린더
+### 5) 게시판 / 캘린더
 
 ```
 게시판 추가, 수정, 삭제 / 게시글 조회 / 게시글 댓글
 게시판 크기 설정 / 서브게시판
 캘린더 일정 추가 / 일정 삭제
 ```
+
+**5-1) 게시판 기본 페이지**
+
+<p align="center" width="100%">
+	<img width="600" alt="게시판" src="https://github.com/ebcode2021/proZ/assets/84271971/03baccbc-a959-4d2d-940e-b170b39bdc5c">
+</p>
+
+<br />
+
+**5-2) 게시글**
+
+<p align="center" width="100%">
+	<img width="600" alt="게시판2" src="https://github.com/ebcode2021/proZ/assets/84271971/477dc212-eb54-4cd9-8707-32d22b8c81a7">
+</p>
+
+<br />
+
+**5-3) 캘린더**
+
+<p align="center" width="100%">
+	<img width="600" alt="캘린더" src="https://github.com/ebcode2021/proZ/assets/84271971/a9bbfb87-5d47-448c-a602-a6721d3781a0">
+</p>
+
+---
 
 ### 6) 에디터
 
@@ -246,6 +270,13 @@ Firebase를 사용한 실시간 채팅 / 실시간 파일 전송
 img, file, audio 첨부 가능
 codeBlock, 구분선, 인용문 작성 기능
 ```
+
+<p align="center" width="100%">
+	<img width="600" alt="에디터1" src="https://github.com/ebcode2021/proZ/assets/84271971/1749dd82-d363-4f05-9c66-66af4cb396d4">
+	<img width="600" alt="에디터2" src="https://github.com/ebcode2021/proZ/assets/84271971/f199cd86-129b-4219-82c3-7aba0f87aad5">
+</p>
+
+---
 
 ### 7) 로드맵
 
